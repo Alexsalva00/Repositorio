@@ -1,0 +1,7 @@
+"Reglas de mbr"
+
+Reglas:
+  1 Solo pueden haber 4 particiones primarias.
+  2 Una de esas particiones se puede hacer extended.
+  3 Dentro de una extended pueden haber x logicas. 
+  4 En el caso de Windows necesita que una primaria que no sea la extended sea activa, si es Linux no lo necesita. 
